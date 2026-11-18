@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Safe LiveBridge</string>
+    <string name="service_listener_label">Safe LiveBridge Listener</string>
+    <string name="tile_label">LiveBridge Now</string>
+    <string name="now_bar_channel_name">Samsung Now Bar Live Updates</string>
+    <string name="now_bar_channel_desc">Канал отображения живых активностей на экране блокировки One UI</string>
+    <string name="foreground_service_channel">Фоновая служба LiveBridge</string>
+    <string name="foreground_service_desc">Поддерживает работу моста уведомлений активным</string>
+    <string name="copy_otp_action">Скопировать код</string>
+    <string name="expand_all_action">Все уведомления</string>
+    <string name="otp_copied_toast">Код %s скопирован в буфер обмена</string>
+</resources>
